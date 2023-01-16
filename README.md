@@ -1,3 +1,3 @@
-# PythonMiniProject-Choose your own adventure
+# PythonMiniProject
 
-This project is for a better understanding of "if" and "else" statements in a fun story-telling game that can go endlessly.
+This repository contains lots of PythonMiniProjects I made for better understanding 
